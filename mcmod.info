@@ -1,0 +1,15 @@
+[
+  {
+    "modid": "ccshack",
+    "name": "CCSHack",
+    "description": "GodHack",
+    "version": "1.0.2Beta",
+    "mcversion": "1.12.2",
+    "updateUrl": "",
+    "authorList": [
+      "2q1"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
